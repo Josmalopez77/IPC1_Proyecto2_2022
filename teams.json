@@ -1,0 +1,3234 @@
+[
+    {
+        "id": "qat",
+        "name": "QATAR",
+        "elements": [
+            {
+                "id": "qat1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "qat2",
+                "name": "SAAD AL SHEEB",
+                "isPlayer": true
+            },
+            {
+                "id": "qat3",
+                "name": "MESHAAL BARSHAM",
+                "isPlayer": true
+            },
+            {
+                "id": "qat4",
+                "name": "HOMAM AHMED",
+                "isPlayer": true
+            },
+            {
+                "id": "qat5",
+                "name": "BASSAM ALRAWI",
+                "isPlayer": true
+            },
+            {
+                "id": "qat6",
+                "name": "ABDULKARIM HASSAN",
+                "isPlayer": true
+            },
+            {
+                "id": "qat7",
+                "name": "MUSAAB KHIDIR",
+                "isPlayer": true
+            },
+            {
+                "id": "qat8",
+                "name": "BOUALEM KHOUKHI",
+                "isPlayer": true
+            },
+            {
+                "id": "qat9",
+                "name": "PEDRO MIGUEL",
+                "isPlayer": true
+            },
+            {
+                "id": "qat10",
+                "name": "TAREK SALMAN",
+                "isPlayer": true
+            },
+            {
+                "id": "qat11",
+                "name": "KARIM BOUDIAF",
+                "isPlayer": true
+            },
+            {
+                "id": "qat12",
+                "name": "ABDULAZIZ HATEM",
+                "isPlayer": true
+            },
+            {
+                "id": "qat13",
+                "name": "ASSIM OMER MADIBO",
+                "isPlayer": true
+            },
+            {
+                "id": "qat14",
+                "name": "YOUSUF ABDURISAG",
+                "isPlayer": true
+            },
+            {
+                "id": "qat15",
+                "name": "AKRAM HASSAN AFIF",
+                "isPlayer": true
+            },
+            {
+                "id": "qat16",
+                "name": "AHMAD ALAAELDIN",
+                "isPlayer": true
+            },
+            {
+                "id": "qat17",
+                "name": "HASAN AL-HAYDOS",
+                "isPlayer": true
+            },
+            {
+                "id": "qat18",
+                "name": "ALMOEZ ALI",
+                "isPlayer": true
+            },
+            {
+                "id": "qat19",
+                "name": "MOHAMMED MUNTARI",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "ecu",
+        "name": "ECUADOR",
+        "elements": [
+            {
+                "id": "ecu1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "ecu2",
+                "name": "HERNÁN GALÍNDEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "ecu3",
+                "name": "ALEXANDER DOMÍNGUEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "ecu4",
+                "name": "ROBERT ARBOLEDA",
+                "isPlayer": true
+            },
+            {
+                "id": "ecu5",
+                "name": "BYRON CASTILLO",
+                "isPlayer": true
+            },
+            {
+                "id": "ecu6",
+                "name": "PERVIS ESTUPIÑÁN",
+                "isPlayer": true
+            },
+            {
+                "id": "ecu7",
+                "name": "PIERO HINCAPIÉ",
+                "isPlayer": true
+            },
+            {
+                "id": "ecu8",
+                "name": "ÁNGELO PRECIADO",
+                "isPlayer": true
+            },
+            {
+                "id": "ecu9",
+                "name": "FÉLIX TORRES",
+                "isPlayer": true
+            },
+            {
+                "id": "ecu10",
+                "name": "MOISÉS CAICEDO",
+                "isPlayer": true
+            },
+            {
+                "id": "ecu11",
+                "name": "ALAN FRANCO",
+                "isPlayer": true
+            },
+            {
+                "id": "ecu12",
+                "name": "CARLOS GRUEZO",
+                "isPlayer": true
+            },
+            {
+                "id": "ecu13",
+                "name": "JHEGSON MÉNDEZ ",
+                "isPlayer": true
+            },
+            {
+                "id": "ecu14",
+                "name": "JEREMY SARMIENTO",
+                "isPlayer": true
+            },
+            {
+                "id": "ecu15",
+                "name": "MICHAEL ESTRADA",
+                "isPlayer": true
+            },
+            {
+                "id": "ecu16",
+                "name": "ÁNGEL MENA",
+                "isPlayer": true
+            },
+            {
+                "id": "ecu17",
+                "name": "GONZALO PLATA",
+                "isPlayer": true
+            },
+            {
+                "id": "ecu18",
+                "name": "AYRTON PRECIADO",
+                "isPlayer": true
+            },
+            {
+                "id": "ecu19",
+                "name": "ENNER VALENCIA",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "sen",
+        "name": "SENEGAL",
+        "elements": [
+            {
+                "id": "sen1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "sen2",
+                "name": "ÉDOUARD MENDY",
+                "isPlayer": true
+            },
+            {
+                "id": "sen3",
+                "name": "ALFRED GOMIS",
+                "isPlayer": true
+            },
+            {
+                "id": "sen4",
+                "name": "SALIOU CISS",
+                "isPlayer": true
+            },
+            {
+                "id": "sen5",
+                "name": "PAPE ABOU CISSÉ",
+                "isPlayer": true
+            },
+            {
+                "id": "sen6",
+                "name": "ABDOU DIALLO",
+                "isPlayer": true
+            },
+            {
+                "id": "sen7",
+                "name": "KALIDOU KOULIBALY",
+                "isPlayer": true
+            },
+            {
+                "id": "sen8",
+                "name": "IBRAHIMA MBAYE",
+                "isPlayer": true
+            },
+            {
+                "id": "sen9",
+                "name": "DOUNA SARR",
+                "isPlayer": true
+            },
+            {
+                "id": "sen10",
+                "name": "KRÉPIN DIATTA",
+                "isPlayer": true
+            },
+            {
+                "id": "sen11",
+                "name": "IDRISSA GUEYE",
+                "isPlayer": true
+            },
+            {
+                "id": "sen12",
+                "name": "PAPE GUEYE",
+                "isPlayer": true
+            },
+            {
+                "id": "sen13",
+                "name": "CHEIKHOU KOUYATÉ",
+                "isPlayer": true
+            },
+            {
+                "id": "sen14",
+                "name": "NAMPALYS MENDY",
+                "isPlayer": true
+            },
+            {
+                "id": "sen15",
+                "name": "BOULAYE DIA",
+                "isPlayer": true
+            },
+            {
+                "id": "sen16",
+                "name": "FAMARA DIÉDHIOU",
+                "isPlayer": true
+            },
+            {
+                "id": "sen17",
+                "name": "BAMBA DIENG",
+                "isPlayer": true
+            },
+            {
+                "id": "sen18",
+                "name": "SADIO MANÉ",
+                "isPlayer": true
+            },
+            {
+                "id": "sen19",
+                "name": "ISMAÏLA SARR",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "ned",
+        "name": "PAÍSES BAJOS",
+        "elements": [
+            {
+                "id": "ned1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "ned2",
+                "name": "JUSTIN BIJLOW",
+                "isPlayer": true
+            },
+            {
+                "id": "ned3",
+                "name": "JASPER CILLESSEN",
+                "isPlayer": true
+            },
+            {
+                "id": "ned4",
+                "name": "DALEY BLIND",
+                "isPlayer": true
+            },
+            {
+                "id": "ned5",
+                "name": "MATTHIJS DE LIGT",
+                "isPlayer": true
+            },
+            {
+                "id": "ned6",
+                "name": "STEFAN DE VRIJ",
+                "isPlayer": true
+            },
+            {
+                "id": "ned7",
+                "name": "DENZEL DUMFRIES",
+                "isPlayer": true
+            },
+            {
+                "id": "ned8",
+                "name": "VIRGIL VAN DIJK",
+                "isPlayer": true
+            },
+            {
+                "id": "ned9",
+                "name": "STEVEN BERGHUIS",
+                "isPlayer": true
+            },
+            {
+                "id": "ned10",
+                "name": "FRENKIE DE JONG",
+                "isPlayer": true
+            },
+            {
+                "id": "ned11",
+                "name": "RYAN GRAVENBERCH",
+                "isPlayer": true
+            },
+            {
+                "id": "ned12",
+                "name": "DAVY KLAASSEN",
+                "isPlayer": true
+            },
+            {
+                "id": "ned13",
+                "name": "TEUN KOOPMEINERS",
+                "isPlayer": true
+            },
+            {
+                "id": "ned14",
+                "name": "GEORGINIO WIJNALDUM",
+                "isPlayer": true
+            },
+            {
+                "id": "ned15",
+                "name": "STEVEN BERGWIJN",
+                "isPlayer": true
+            },
+            {
+                "id": "ned16",
+                "name": "ARNAUT DANJUMA",
+                "isPlayer": true
+            },
+            {
+                "id": "ned17",
+                "name": "MEMPHIS DEPAY",
+                "isPlayer": true
+            },
+            {
+                "id": "ned18",
+                "name": "CODY GAKPO",
+                "isPlayer": true
+            },
+            {
+                "id": "ned19",
+                "name": "DONYELL MALEN",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "eng",
+        "name": "INGLATERRA",
+        "elements": [
+            {
+                "id": "eng1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "eng2",
+                "name": "JORDAN PICKFORD",
+                "isPlayer": true
+            },
+            {
+                "id": "eng3",
+                "name": "AARON RAMSDALE",
+                "isPlayer": true
+            },
+            {
+                "id": "eng4",
+                "name": "TRENT ALEXANDER-ARNOLD",
+                "isPlayer": true
+            },
+            {
+                "id": "eng5",
+                "name": "CONOR COADY",
+                "isPlayer": true
+            },
+            {
+                "id": "eng6",
+                "name": "HARRY MAGUIRE",
+                "isPlayer": true
+            },
+            {
+                "id": "eng7",
+                "name": "LUKE SHAW",
+                "isPlayer": true
+            },
+            {
+                "id": "eng8",
+                "name": "JOHN STONES",
+                "isPlayer": true
+            },
+            {
+                "id": "eng9",
+                "name": "KYLE WALKER",
+                "isPlayer": true
+            },
+            {
+                "id": "eng10",
+                "name": "JUDE BELLINGHAM",
+                "isPlayer": true
+            },
+            {
+                "id": "eng11",
+                "name": "JACK GREALISH",
+                "isPlayer": true
+            },
+            {
+                "id": "eng12",
+                "name": "JORDAN HENDERSON",
+                "isPlayer": true
+            },
+            {
+                "id": "eng13",
+                "name": "MASON MOUNT",
+                "isPlayer": true
+            },
+            {
+                "id": "eng14",
+                "name": "KALVIN PHILLIPS",
+                "isPlayer": true
+            },
+            {
+                "id": "eng15",
+                "name": "DECLARN RICE",
+                "isPlayer": true
+            },
+            {
+                "id": "eng16",
+                "name": "PHIL FODEN",
+                "isPlayer": true
+            },
+            {
+                "id": "eng17",
+                "name": "HARRY KANE",
+                "isPlayer": true
+            },
+            {
+                "id": "eng18",
+                "name": "BUKAYO SAKA",
+                "isPlayer": true
+            },
+            {
+                "id": "eng19",
+                "name": "RAHEEM STERLING",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "irn",
+        "name": "IRÁN",
+        "elements": [
+            {
+                "id": "irn1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "irn2",
+                "name": "AMIR ABEDZADEH",
+                "isPlayer": true
+            },
+            {
+                "id": "irn3",
+                "name": "ALIREZA BEIRANVAND",
+                "isPlayer": true
+            },
+            {
+                "id": "irn4",
+                "name": "EHSAN HAJSAFI",
+                "isPlayer": true
+            },
+            {
+                "id": "irn5",
+                "name": "MAJID HOSSEINI",
+                "isPlayer": true
+            },
+            {
+                "id": "irn6",
+                "name": "HOSSEIN KANANI",
+                "isPlayer": true
+            },
+            {
+                "id": "irn7",
+                "name": "SHOJA KHALILZADEH",
+                "isPlayer": true
+            },
+            {
+                "id": "irn8",
+                "name": "MILAD MOHAMMADI",
+                "isPlayer": true
+            },
+            {
+                "id": "irn9",
+                "name": "SADEGH MOHARRAMI",
+                "isPlayer": true
+            },
+            {
+                "id": "irn10",
+                "name": "OMID NOORAFKAN",
+                "isPlayer": true
+            },
+            {
+                "id": "irn11",
+                "name": "VAHID AMIRI",
+                "isPlayer": true
+            },
+            {
+                "id": "irn12",
+                "name": "SAEID EZATOLAHI",
+                "isPlayer": true
+            },
+            {
+                "id": "irn13",
+                "name": "ALI GHOLIZADEH",
+                "isPlayer": true
+            },
+            {
+                "id": "irn14",
+                "name": "ALIREZA JAHANBAKHSH",
+                "isPlayer": true
+            },
+            {
+                "id": "irn15",
+                "name": "AHMAD NOOUROLLAHI",
+                "isPlayer": true
+            },
+            {
+                "id": "irn16",
+                "name": "KARIM ANSARIFARD ",
+                "isPlayer": true
+            },
+            {
+                "id": "irn17",
+                "name": "SARDAR AZMOUN",
+                "isPlayer": true
+            },
+            {
+                "id": "irn18",
+                "name": "SAMAN GHODDOS",
+                "isPlayer": true
+            },
+            {
+                "id": "irn19",
+                "name": "MEHDI TAREMI",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "usa",
+        "name": "ESTADOS UNIDOS DE AMÉRICA",
+        "elements": [
+            {
+                "id": "usa1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "usa2",
+                "name": "MATT TURNER",
+                "isPlayer": true
+            },
+            {
+                "id": "usa3",
+                "name": "ZACK STEFFEN",
+                "isPlayer": true
+            },
+            {
+                "id": "usa4",
+                "name": "SERGIÑO DEST",
+                "isPlayer": true
+            },
+            {
+                "id": "usa5",
+                "name": "AARON LONG",
+                "isPlayer": true
+            },
+            {
+                "id": "usa6",
+                "name": "CHRIS RICHARDS",
+                "isPlayer": true
+            },
+            {
+                "id": "usa7",
+                "name": "ANTONEE ROBINSON",
+                "isPlayer": true
+            },
+            {
+                "id": "usa8",
+                "name": "DeANDRE YEDLIN",
+                "isPlayer": true
+            },
+            {
+                "id": "usa9",
+                "name": "WALKER ZIMMERMAN",
+                "isPlayer": true
+            },
+            {
+                "id": "usa10",
+                "name": "BRENDEN AARONSON",
+                "isPlayer": true
+            },
+            {
+                "id": "usa11",
+                "name": "KELLYN ACOSTA",
+                "isPlayer": true
+            },
+            {
+                "id": "usa12",
+                "name": "TYLER ADAMS",
+                "isPlayer": true
+            },
+            {
+                "id": "usa13",
+                "name": "WESTON McKENNIE",
+                "isPlayer": true
+            },
+            {
+                "id": "usa14",
+                "name": "YUNUS MUSAH",
+                "isPlayer": true
+            },
+            {
+                "id": "usa15",
+                "name": "JESÚS FERREIRA",
+                "isPlayer": true
+            },
+            {
+                "id": "usa16",
+                "name": "RICARDO PEPI",
+                "isPlayer": true
+            },
+            {
+                "id": "usa17",
+                "name": "CHRISTIAN PULISIC",
+                "isPlayer": true
+            },
+            {
+                "id": "usa18",
+                "name": "GIOVANNI REYNA ",
+                "isPlayer": true
+            },
+            {
+                "id": "usa19",
+                "name": "TIMOTHY WEAH",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "wal",
+        "name": "PAÍS DE GALES",
+        "elements": [
+            {
+                "id": "wal1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "wal2",
+                "name": "DANNY WARD",
+                "isPlayer": true
+            },
+            {
+                "id": "wal3",
+                "name": "WAYNE HENNESSEY",
+                "isPlayer": true
+            },
+            {
+                "id": "wal4",
+                "name": "ETHAN AMPADU",
+                "isPlayer": true
+            },
+            {
+                "id": "wal5",
+                "name": "BEN DAVIES",
+                "isPlayer": true
+            },
+            {
+                "id": "wal6",
+                "name": "CHRIS GUNTER",
+                "isPlayer": true
+            },
+            {
+                "id": "wal7",
+                "name": "CHRIS MEPHAM",
+                "isPlayer": true
+            },
+            {
+                "id": "wal8",
+                "name": "CONNOR ROBERTS",
+                "isPlayer": true
+            },
+            {
+                "id": "wal9",
+                "name": "JOE RODON",
+                "isPlayer": true
+            },
+            {
+                "id": "wal10",
+                "name": "NECO WILLIAMS",
+                "isPlayer": true
+            },
+            {
+                "id": "wal11",
+                "name": "JOE ALLEN",
+                "isPlayer": true
+            },
+            {
+                "id": "wal12",
+                "name": "JOE MORRELL",
+                "isPlayer": true
+            },
+            {
+                "id": "wal13",
+                "name": "AARON RAMSEY",
+                "isPlayer": true
+            },
+            {
+                "id": "wal14",
+                "name": "JONATHAN WILLIAMS",
+                "isPlayer": true
+            },
+            {
+                "id": "wal15",
+                "name": "HARRY WILSON",
+                "isPlayer": true
+            },
+            {
+                "id": "wal16",
+                "name": "GARETH BALE",
+                "isPlayer": true
+            },
+            {
+                "id": "wal17",
+                "name": "DANIEL JAMES",
+                "isPlayer": true
+            },
+            {
+                "id": "wal18",
+                "name": "BRENNAN JOHNSON",
+                "isPlayer": true
+            },
+            {
+                "id": "wal19",
+                "name": "KEFFER MOORE",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "arg",
+        "name": "ARGENTINA",
+        "elements": [
+            {
+                "id": "arg1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "arg2",
+                "name": "EMILIANO MARTÍNEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "arg3",
+                "name": "FRANCO ARMANI",
+                "isPlayer": true
+            },
+            {
+                "id": "arg4",
+                "name": "MARCOS ACUÑA",
+                "isPlayer": true
+            },
+            {
+                "id": "arg5",
+                "name": "NAHUEL MOLINA",
+                "isPlayer": true
+            },
+            {
+                "id": "arg6",
+                "name": "NICOLÁS OTAMENDI",
+                "isPlayer": true
+            },
+            {
+                "id": "arg7",
+                "name": "GERMÁN PEZZELLA",
+                "isPlayer": true
+            },
+            {
+                "id": "arg8",
+                "name": "CRISTIAN ROMERO",
+                "isPlayer": true
+            },
+            {
+                "id": "arg9",
+                "name": "RODRIGO DE PAUL",
+                "isPlayer": true
+            },
+            {
+                "id": "arg10",
+                "name": "ÁNGEL DI MARÍA",
+                "isPlayer": true
+            },
+            {
+                "id": "arg11",
+                "name": "GIOVANI LO CELSO",
+                "isPlayer": true
+            },
+            {
+                "id": "arg12",
+                "name": "LEANDRO PAREDES",
+                "isPlayer": true
+            },
+            {
+                "id": "arg13",
+                "name": "GUIDO RODRÍGUEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "arg14",
+                "name": "JULIÁN ÁLVAREZ",
+                "isPlayer": true
+            },
+            {
+                "id": "arg15",
+                "name": "JOAQUÍN CORREA",
+                "isPlayer": true
+            },
+            {
+                "id": "arg16",
+                "name": "ALEJANDRO GÓMEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "arg17",
+                "name": "NICOLÁS GONZÁLEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "arg18",
+                "name": "LAUTARO MARTÍNEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "arg19",
+                "name": "LIONEL MESSI",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "ksa",
+        "name": "ARABIA SAUDÍ",
+        "elements": [
+            {
+                "id": "ksa1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "ksa2",
+                "name": "MOHAMMED AL-OWAIS",
+                "isPlayer": true
+            },
+            {
+                "id": "ksa3",
+                "name": "MOHAMMED AL-RUBAIE",
+                "isPlayer": true
+            },
+            {
+                "id": "ksa4",
+                "name": "ABBULALEH AL-AMRI",
+                "isPlayer": true
+            },
+            {
+                "id": "ksa5",
+                "name": "ALI AL-BOLEAHI",
+                "isPlayer": true
+            },
+            {
+                "id": "ksa6",
+                "name": "MOHAMMED AL-BURAYK",
+                "isPlayer": true
+            },
+            {
+                "id": "ksa7",
+                "name": "SULTAN AL-GHANNAM",
+                "isPlayer": true
+            },
+            {
+                "id": "ksa8",
+                "name": "YASSER AL-SHAHRANI",
+                "isPlayer": true
+            },
+            {
+                "id": "ksa9",
+                "name": "HASSAN AL-TAMBAKTI",
+                "isPlayer": true
+            },
+            {
+                "id": "ksa10",
+                "name": "ABDULLAH MADU",
+                "isPlayer": true
+            },
+            {
+                "id": "ksa11",
+                "name": "SALMAN AL-FARAJ",
+                "isPlayer": true
+            },
+            {
+                "id": "ksa12",
+                "name": "ABDULELAH AL-MALKI",
+                "isPlayer": true
+            },
+            {
+                "id": "ksa13",
+                "name": "SAMI AL-NAJEI",
+                "isPlayer": true
+            },
+            {
+                "id": "ksa14",
+                "name": "HATTAN BAHEBRI",
+                "isPlayer": true
+            },
+            {
+                "id": "ksa15",
+                "name": "MOHAMED KANNO",
+                "isPlayer": true
+            },
+            {
+                "id": "ksa16",
+                "name": "ABDULLAH OTAYF",
+                "isPlayer": true
+            },
+            {
+                "id": "ksa17",
+                "name": "FIRAS AL-BURAIKAN",
+                "isPlayer": true
+            },
+            {
+                "id": "ksa18",
+                "name": "SALEM AL-DAWSARI",
+                "isPlayer": true
+            },
+            {
+                "id": "ksa19",
+                "name": "KHALID AL-GHANNAM",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "mex",
+        "name": "MÉXICO",
+        "elements": [
+            {
+                "id": "mex1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "mex2",
+                "name": "GUILLERMO OCHOA",
+                "isPlayer": true
+            },
+            {
+                "id": "mex3",
+                "name": "ALFREDO TALAVERA",
+                "isPlayer": true
+            },
+            {
+                "id": "mex4",
+                "name": "NÉSTOR ARAÚJO",
+                "isPlayer": true
+            },
+            {
+                "id": "mex5",
+                "name": "JESÚS GALLARDO",
+                "isPlayer": true
+            },
+            {
+                "id": "mex6",
+                "name": "CÉSAR MONTES",
+                "isPlayer": true
+            },
+            {
+                "id": "mex7",
+                "name": "HÉCTOR MORENO",
+                "isPlayer": true
+            },
+            {
+                "id": "mex8",
+                "name": "LUIS ROMO",
+                "isPlayer": true
+            },
+            {
+                "id": "mex9",
+                "name": "JORGE SÁNCHEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "mex10",
+                "name": "EDSON ÁLVAREZ",
+                "isPlayer": true
+            },
+            {
+                "id": "mex11",
+                "name": "JESÚS MANUEL CORONA",
+                "isPlayer": true
+            },
+            {
+                "id": "mex12",
+                "name": "ANDRÉS GUARDADO",
+                "isPlayer": true
+            },
+            {
+                "id": "mex13",
+                "name": "ÉRICK GUITIÉRREZ",
+                "isPlayer": true
+            },
+            {
+                "id": "mex14",
+                "name": "HÉCTOR HERRERA",
+                "isPlayer": true
+            },
+            {
+                "id": "mex15",
+                "name": "DIEGO LAINEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "mex16",
+                "name": "CARLOS RODRÍGUEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "mex17",
+                "name": "ROGELIO FUNES MORI",
+                "isPlayer": true
+            },
+            {
+                "id": "mex18",
+                "name": "RÁUL JIMÉNEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "mex19",
+                "name": "HIRVING LOZANO",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "pol",
+        "name": "POLONIA",
+        "elements": [
+            {
+                "id": "pol1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "pol2",
+                "name": "WOJCIECH SZCZĘSNY",
+                "isPlayer": true
+            },
+            {
+                "id": "pol3",
+                "name": "ŁUKASZ SKORUPSKI",
+                "isPlayer": true
+            },
+            {
+                "id": "pol4",
+                "name": "JAN BEDNAREK",
+                "isPlayer": true
+            },
+            {
+                "id": "pol5",
+                "name": "BARTOSZ BERESZYŃSKI",
+                "isPlayer": true
+            },
+            {
+                "id": "pol6",
+                "name": "MATTY CASH",
+                "isPlayer": true
+            },
+            {
+                "id": "pol7",
+                "name": "KAMIL GLIK",
+                "isPlayer": true
+            },
+            {
+                "id": "pol8",
+                "name": "TYMOTEUSZ PUCHACZ",
+                "isPlayer": true
+            },
+            {
+                "id": "pol9",
+                "name": "MACIEJ RYBUS",
+                "isPlayer": true
+            },
+            {
+                "id": "pol10",
+                "name": "KAMIL JÓŹWIAK",
+                "isPlayer": true
+            },
+            {
+                "id": "pol11",
+                "name": "MATEUSZ KLICH",
+                "isPlayer": true
+            },
+            {
+                "id": "pol12",
+                "name": "GRZEGORZ KRYCHOWIAK",
+                "isPlayer": true
+            },
+            {
+                "id": "pol13",
+                "name": "JAKUB MODER",
+                "isPlayer": true
+            },
+            {
+                "id": "pol14",
+                "name": "SEBASTIAN SZYMAŃSKI",
+                "isPlayer": true
+            },
+            {
+                "id": "pol15",
+                "name": "PIOTR ZIELIŃSKI",
+                "isPlayer": true
+            },
+            {
+                "id": "pol16",
+                "name": "ROBERT LEWANDOWSKI",
+                "isPlayer": true
+            },
+            {
+                "id": "pol17",
+                "name": "ARKADIUSZ MILIK",
+                "isPlayer": true
+            },
+            {
+                "id": "pol18",
+                "name": "KRZYSZTOF PIĄTEK",
+                "isPlayer": true
+            },
+            {
+                "id": "pol19",
+                "name": "KAROL ŚWIDERSKI",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "fra",
+        "name": "FRANCIA",
+        "elements": [
+            {
+                "id": "fra1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "fra2",
+                "name": "HUGO LLORIS",
+                "isPlayer": true
+            },
+            {
+                "id": "fra3",
+                "name": "NMIKE MAIGNAN",
+                "isPlayer": true
+            },
+            {
+                "id": "fra4",
+                "name": "LUCAS HERNÁNDEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "fra5",
+                "name": "THEO HERNÁNDEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "fra6",
+                "name": "PRESNEL KIMPEMBE",
+                "isPlayer": true
+            },
+            {
+                "id": "fra7",
+                "name": "JULES KOUNDÉ",
+                "isPlayer": true
+            },
+            {
+                "id": "fra8",
+                "name": "BENJAMIN PAVARD",
+                "isPlayer": true
+            },
+            {
+                "id": "fra9",
+                "name": "RAPHAËL VARANE",
+                "isPlayer": true
+            },
+            {
+                "id": "fra10",
+                "name": "N'GOLO KANTÉ",
+                "isPlayer": true
+            },
+            {
+                "id": "fra11",
+                "name": "PAUL POGBA",
+                "isPlayer": true
+            },
+            {
+                "id": "fra12",
+                "name": "ADRIEN RABIOT",
+                "isPlayer": true
+            },
+            {
+                "id": "fra13",
+                "name": "AURÉLIEN TCHOUAMÉNI",
+                "isPlayer": true
+            },
+            {
+                "id": "fra14",
+                "name": "WISSAM BEN YEDDER",
+                "isPlayer": true
+            },
+            {
+                "id": "fra15",
+                "name": "KARIM BENZEMA",
+                "isPlayer": true
+            },
+            {
+                "id": "fra16",
+                "name": "KINGSLEY COMAN",
+                "isPlayer": true
+            },
+            {
+                "id": "fra17",
+                "name": "ANTOINE GRIEZMANN",
+                "isPlayer": true
+            },
+            {
+                "id": "fra18",
+                "name": "KYLIAN MBAPPÉ",
+                "isPlayer": true
+            },
+            {
+                "id": "fra19",
+                "name": "CHRISTOPHER NKUNKU",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "aus",
+        "name": "AUSTRALIA",
+        "elements": [
+            {
+                "id": "aus1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "aus2",
+                "name": "MATHEW RYAN",
+                "isPlayer": true
+            },
+            {
+                "id": "aus3",
+                "name": "ANDREW REDMAYNE",
+                "isPlayer": true
+            },
+            {
+                "id": "aus4",
+                "name": "AZIZ BEHICH",
+                "isPlayer": true
+            },
+            {
+                "id": "aus5",
+                "name": "MILOŠ DEGENEK",
+                "isPlayer": true
+            },
+            {
+                "id": "aus6",
+                "name": "RHYAN GRANT",
+                "isPlayer": true
+            },
+            {
+                "id": "aus7",
+                "name": "JOEL KING",
+                "isPlayer": true
+            },
+            {
+                "id": "aus8",
+                "name": "TRENT SAINSBURY",
+                "isPlayer": true
+            },
+            {
+                "id": "aus9",
+                "name": "HARRY SOUTTAR",
+                "isPlayer": true
+            },
+            {
+                "id": "aus10",
+                "name": "AJDIN HRUSTIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "aus11",
+                "name": "JACKSON IRVINE",
+                "isPlayer": true
+            },
+            {
+                "id": "aus12",
+                "name": "JAMES JEGGO",
+                "isPlayer": true
+            },
+            {
+                "id": "aus13",
+                "name": "AWER MABIL",
+                "isPlayer": true
+            },
+            {
+                "id": "aus14",
+                "name": "AARON MOOY",
+                "isPlayer": true
+            },
+            {
+                "id": "aus15",
+                "name": "MARTIN BOYLE",
+                "isPlayer": true
+            },
+            {
+                "id": "aus16",
+                "name": "MITCHELL DUKE",
+                "isPlayer": true
+            },
+            {
+                "id": "aus17",
+                "name": "CRAIG GOODWIN",
+                "isPlayer": true
+            },
+            {
+                "id": "aus18",
+                "name": "MATHEW LECKIE",
+                "isPlayer": true
+            },
+            {
+                "id": "aus19",
+                "name": "ADAM TAGGART",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "den",
+        "name": "DINAMARCA",
+        "elements": [
+            {
+                "id": "den1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "den2",
+                "name": "KASPER SCHMEICHEL",
+                "isPlayer": true
+            },
+            {
+                "id": "den3",
+                "name": "FREDERIK RØNNOW",
+                "isPlayer": true
+            },
+            {
+                "id": "den4",
+                "name": "ANDREAS CHRISTENSEN",
+                "isPlayer": true
+            },
+            {
+                "id": "den5",
+                "name": "SIMON KJÆR",
+                "isPlayer": true
+            },
+            {
+                "id": "den6",
+                "name": "JOAKIM MÆHLE",
+                "isPlayer": true
+            },
+            {
+                "id": "den7",
+                "name": "JENS STRYGER LARSEN",
+                "isPlayer": true
+            },
+            {
+                "id": "den8",
+                "name": "JANNIK VESTERGAARD",
+                "isPlayer": true
+            },
+            {
+                "id": "den9",
+                "name": "MIKKEL DAMSGAARD",
+                "isPlayer": true
+            },
+            {
+                "id": "den10",
+                "name": "THOMAS DELANEY",
+                "isPlayer": true
+            },
+            {
+                "id": "den11",
+                "name": "CHRISTIAN ERIKSEN",
+                "isPlayer": true
+            },
+            {
+                "id": "den12",
+                "name": "PIERRE-EMILE HØJBJERG",
+                "isPlayer": true
+            },
+            {
+                "id": "den13",
+                "name": "CHRISTIAN NØRGAARD",
+                "isPlayer": true
+            },
+            {
+                "id": "den14",
+                "name": "DANIEL WASS",
+                "isPlayer": true
+            },
+            {
+                "id": "den15",
+                "name": "MARTIN BRAITHWAITE",
+                "isPlayer": true
+            },
+            {
+                "id": "den16",
+                "name": "KASPER DOLBERG",
+                "isPlayer": true
+            },
+            {
+                "id": "den17",
+                "name": "YUSSUF POULSEN",
+                "isPlayer": true
+            },
+            {
+                "id": "den18",
+                "name": "ANDREAS SKOV OLSEN",
+                "isPlayer": true
+            },
+            {
+                "id": "den19",
+                "name": "JONAS WIND",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "tun",
+        "name": "TÚNEZ",
+        "elements": [
+            {
+                "id": "tun1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "tun2",
+                "name": "BECHIR BEN SAÏD",
+                "isPlayer": true
+            },
+            {
+                "id": "tun3",
+                "name": "FAROUK BEN MUSTAPHA",
+                "isPlayer": true
+            },
+            {
+                "id": "tun4",
+                "name": "DYLAN BRONN",
+                "isPlayer": true
+            },
+            {
+                "id": "tun5",
+                "name": "MOHAMED DRÄGER",
+                "isPlayer": true
+            },
+            {
+                "id": "tun6",
+                "name": "BILEL IFA",
+                "isPlayer": true
+            },
+            {
+                "id": "tun7",
+                "name": "ALI MAÂLOUL",
+                "isPlayer": true
+            },
+            {
+                "id": "tun8",
+                "name": "HAMZA MATHLOUTHI",
+                "isPlayer": true
+            },
+            {
+                "id": "tun9",
+                "name": "YASSINE MERIAH",
+                "isPlayer": true
+            },
+            {
+                "id": "tun10",
+                "name": "MONTASSAR TALBI",
+                "isPlayer": true
+            },
+            {
+                "id": "tun11",
+                "name": "MOHAMED ALI BEN ROMDHANE",
+                "isPlayer": true
+            },
+            {
+                "id": "tun12",
+                "name": "WAHBI KHAZRI",
+                "isPlayer": true
+            },
+            {
+                "id": "tun13",
+                "name": "AÏSSA LAÏDOUNI",
+                "isPlayer": true
+            },
+            {
+                "id": "tun14",
+                "name": "FERJANI SASSI",
+                "isPlayer": true
+            },
+            {
+                "id": "tun15",
+                "name": "ELLYES SKHIRI",
+                "isPlayer": true
+            },
+            {
+                "id": "tun16",
+                "name": "ANIS SLIMANE",
+                "isPlayer": true
+            },
+            {
+                "id": "tun17",
+                "name": "SEIFEDDINE JAZIRI",
+                "isPlayer": true
+            },
+            {
+                "id": "tun18",
+                "name": "YOUSSEF MSAKNI",
+                "isPlayer": true
+            },
+            {
+                "id": "tun19",
+                "name": "NAÏM SLITI",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "esp",
+        "name": "ESPAÑA",
+        "elements": [
+            {
+                "id": "esp1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "esp2",
+                "name": "UNAI SIMÓN",
+                "isPlayer": true
+            },
+            {
+                "id": "esp3",
+                "name": "ROBERT SÁNCHEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "esp4",
+                "name": "CÉSAR AZPILICUETA",
+                "isPlayer": true
+            },
+            {
+                "id": "esp5",
+                "name": "ERIC GARCÍA",
+                "isPlayer": true
+            },
+            {
+                "id": "esp6",
+                "name": "JORDI ALBA",
+                "isPlayer": true
+            },
+            {
+                "id": "esp7",
+                "name": "AYMERIC LAPORTE",
+                "isPlayer": true
+            },
+            {
+                "id": "esp8",
+                "name": "PAU TORRES",
+                "isPlayer": true
+            },
+            {
+                "id": "esp9",
+                "name": "GAVI",
+                "isPlayer": true
+            },
+            {
+                "id": "esp10",
+                "name": "KOKE",
+                "isPlayer": true
+            },
+            {
+                "id": "esp11",
+                "name": "MARCOS LLORENTE",
+                "isPlayer": true
+            },
+            {
+                "id": "esp12",
+                "name": "PEDRI",
+                "isPlayer": true
+            },
+            {
+                "id": "esp13",
+                "name": "RODRI",
+                "isPlayer": true
+            },
+            {
+                "id": "esp14",
+                "name": "SERGIO BUSQUETS",
+                "isPlayer": true
+            },
+            {
+                "id": "esp15",
+                "name": "DANI OLMO",
+                "isPlayer": true
+            },
+            {
+                "id": "esp16",
+                "name": "ANSU FATI",
+                "isPlayer": true
+            },
+            {
+                "id": "esp17",
+                "name": "FERRAN TORRES",
+                "isPlayer": true
+            },
+            {
+                "id": "esp18",
+                "name": "ÁLVARO MORATA",
+                "isPlayer": true
+            },
+            {
+                "id": "esp19",
+                "name": "PABLO SARABIA",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "crc",
+        "name": "COSTA RICA",
+        "elements": [
+            {
+                "id": "crc1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "crc2",
+                "name": "KEYLOR NAVAS",
+                "isPlayer": true
+            },
+            {
+                "id": "crc3",
+                "name": "LEONEL MOREIRA",
+                "isPlayer": true
+            },
+            {
+                "id": "crc4",
+                "name": "RICARDO BLANCO",
+                "isPlayer": true
+            },
+            {
+                "id": "crc5",
+                "name": "FRANCISCO CALVO",
+                "isPlayer": true
+            },
+            {
+                "id": "crc6",
+                "name": "ÓSCAR DUARTE",
+                "isPlayer": true
+            },
+            {
+                "id": "crc7",
+                "name": "KEYSHER FULLER",
+                "isPlayer": true
+            },
+            {
+                "id": "crc8",
+                "name": "BRYAN OVIEDO",
+                "isPlayer": true
+            },
+            {
+                "id": "crc9",
+                "name": "JUAN PABLO VARGAS",
+                "isPlayer": true
+            },
+            {
+                "id": "crc10",
+                "name": "KENDALL WASTON",
+                "isPlayer": true
+            },
+            {
+                "id": "crc11",
+                "name": "CELSO BORGES",
+                "isPlayer": true
+            },
+            {
+                "id": "crc12",
+                "name": "ORLANDO GALO",
+                "isPlayer": true
+            },
+            {
+                "id": "crc13",
+                "name": "BRYAN RUIZ",
+                "isPlayer": true
+            },
+            {
+                "id": "crc14",
+                "name": "YELTSIN TEJEDA",
+                "isPlayer": true
+            },
+            {
+                "id": "crc15",
+                "name": "JEWISON BENNETTE",
+                "isPlayer": true
+            },
+            {
+                "id": "crc16",
+                "name": "JOEL CAMPBELL",
+                "isPlayer": true
+            },
+            {
+                "id": "crc17",
+                "name": "ANTHONY CONTRERAS",
+                "isPlayer": true
+            },
+            {
+                "id": "crc18",
+                "name": "GERSON TORRES",
+                "isPlayer": true
+            },
+            {
+                "id": "crc19",
+                "name": "JOHAN VENEGAS",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "ger",
+        "name": "ALEMANIA",
+        "elements": [
+            {
+                "id": "ger1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "ger2",
+                "name": "MANUEL NEUER",
+                "isPlayer": true
+            },
+            {
+                "id": "ger3",
+                "name": "MARC-ANDRÉ TER STEGEN",
+                "isPlayer": true
+            },
+            {
+                "id": "ger4",
+                "name": "MATTHIAS GINTER",
+                "isPlayer": true
+            },
+            {
+                "id": "ger5",
+                "name": "ROBIN GOSENS",
+                "isPlayer": true
+            },
+            {
+                "id": "ger6",
+                "name": "THILO KEHRER",
+                "isPlayer": true
+            },
+            {
+                "id": "ger7",
+                "name": "DAVID RAUM",
+                "isPlayer": true
+            },
+            {
+                "id": "ger8",
+                "name": "ANTONIO RÜDIGER",
+                "isPlayer": true
+            },
+            {
+                "id": "ger9",
+                "name": "NIKLAS SÜLE",
+                "isPlayer": true
+            },
+            {
+                "id": "ger10",
+                "name": "LEON GORETZKA",
+                "isPlayer": true
+            },
+            {
+                "id": "ger11",
+                "name": "İLKAY GÜNDOĞAN",
+                "isPlayer": true
+            },
+            {
+                "id": "ger12",
+                "name": "KAI HAVERTZ",
+                "isPlayer": true
+            },
+            {
+                "id": "ger13",
+                "name": "JONAS HOFMANN",
+                "isPlayer": true
+            },
+            {
+                "id": "ger14",
+                "name": "JOSHUA KIMMICH",
+                "isPlayer": true
+            },
+            {
+                "id": "ger15",
+                "name": "SERGE GNABRY",
+                "isPlayer": true
+            },
+            {
+                "id": "ger16",
+                "name": "THOMAS MÜLLER",
+                "isPlayer": true
+            },
+            {
+                "id": "ger17",
+                "name": "MARCO REUS",
+                "isPlayer": true
+            },
+            {
+                "id": "ger18",
+                "name": "LEROY SANÉ",
+                "isPlayer": true
+            },
+            {
+                "id": "ger19",
+                "name": "TIMO WERNER",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "jpn",
+        "name": "JAPÓN",
+        "elements": [
+            {
+                "id": "jpn1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "jpn2",
+                "name": "SHUICHI GONDA",
+                "isPlayer": true
+            },
+            {
+                "id": "jpn3",
+                "name": "EIJI KAWASHIMA",
+                "isPlayer": true
+            },
+            {
+                "id": "jpn4",
+                "name": "YUTO NAGATOMO",
+                "isPlayer": true
+            },
+            {
+                "id": "jpn5",
+                "name": "YUTA NAKAYAMA",
+                "isPlayer": true
+            },
+            {
+                "id": "jpn6",
+                "name": "TAKEHIRO TOMIYASU",
+                "isPlayer": true
+            },
+            {
+                "id": "jpn7",
+                "name": "MIKI YAMANE",
+                "isPlayer": true
+            },
+            {
+                "id": "jpn8",
+                "name": "MAYA YOSHIDA",
+                "isPlayer": true
+            },
+            {
+                "id": "jpn9",
+                "name": "WATARU ENDO",
+                "isPlayer": true
+            },
+            {
+                "id": "jpn10",
+                "name": "GENKI HARAGUCHI",
+                "isPlayer": true
+            },
+            {
+                "id": "jpn11",
+                "name": "HIDEMASA MORITA",
+                "isPlayer": true
+            },
+            {
+                "id": "jpn12",
+                "name": "GAKU SHIBASAKI",
+                "isPlayer": true
+            },
+            {
+                "id": "jpn13",
+                "name": "AO TANAKA",
+                "isPlayer": true
+            },
+            {
+                "id": "jpn14",
+                "name": "TAKUMA ASANO",
+                "isPlayer": true
+            },
+            {
+                "id": "jpn15",
+                "name": "KYOGO FURUHASHI",
+                "isPlayer": true
+            },
+            {
+                "id": "jpn16",
+                "name": "JUNYA ITO",
+                "isPlayer": true
+            },
+            {
+                "id": "jpn17",
+                "name": "TAKUMI MINAMINO",
+                "isPlayer": true
+            },
+            {
+                "id": "jpn18",
+                "name": "KAORU MITOMA",
+                "isPlayer": true
+            },
+            {
+                "id": "jpn19",
+                "name": "YUYA OSAKO",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "bel",
+        "name": "BÉLGICA",
+        "elements": [
+            {
+                "id": "bel1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "bel2",
+                "name": "THIBAUT COURTOIS",
+                "isPlayer": true
+            },
+            {
+                "id": "bel3",
+                "name": "SIMON MIGNOLET",
+                "isPlayer": true
+            },
+            {
+                "id": "bel4",
+                "name": "TOBY ALDERWEIRELD",
+                "isPlayer": true
+            },
+            {
+                "id": "bel5",
+                "name": "TIMOTHY CASTAGNE",
+                "isPlayer": true
+            },
+            {
+                "id": "bel6",
+                "name": "JASON DENAYER",
+                "isPlayer": true
+            },
+            {
+                "id": "bel7",
+                "name": "THOMAS MEUNIER",
+                "isPlayer": true
+            },
+            {
+                "id": "bel8",
+                "name": "JAN VERTONGHEN",
+                "isPlayer": true
+            },
+            {
+                "id": "bel9",
+                "name": "YANNICK CARRASCO",
+                "isPlayer": true
+            },
+            {
+                "id": "bel10",
+                "name": "KEVIN DE BRUYNE",
+                "isPlayer": true
+            },
+            {
+                "id": "bel11",
+                "name": "CHARLES DE KETELAERE",
+                "isPlayer": true
+            },
+            {
+                "id": "bel12",
+                "name": "THORGAN HAZARD",
+                "isPlayer": true
+            },
+            {
+                "id": "bel13",
+                "name": "YOURI TIELEMANS",
+                "isPlayer": true
+            },
+            {
+                "id": "bel14",
+                "name": "HANS VANAKEN",
+                "isPlayer": true
+            },
+            {
+                "id": "bel15",
+                "name": "AXEL WITSEL",
+                "isPlayer": true
+            },
+            {
+                "id": "bel16",
+                "name": "JÉRÉMY DOKU",
+                "isPlayer": true
+            },
+            {
+                "id": "bel17",
+                "name": "EDEN HAZARD",
+                "isPlayer": true
+            },
+            {
+                "id": "bel18",
+                "name": "ROMELU LUKAKU",
+                "isPlayer": true
+            },
+            {
+                "id": "bel19",
+                "name": "DRIES MERTENS",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "can ",
+        "name": "CANADÁ",
+        "elements": [
+            {
+                "id": "can 1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "can2",
+                "name": "MILAN BORJAN",
+                "isPlayer": true
+            },
+            {
+                "id": "can3",
+                "name": "MAXIME CRÉPEAU",
+                "isPlayer": true
+            },
+            {
+                "id": "can4",
+                "name": "SAMUEL ADEKUGBE",
+                "isPlayer": true
+            },
+            {
+                "id": "can5",
+                "name": "DONEIL HENRY",
+                "isPlayer": true
+            },
+            {
+                "id": "can6",
+                "name": "ALISTAIR JOHNSTON",
+                "isPlayer": true
+            },
+            {
+                "id": "can7",
+                "name": "RICHIE LARYEA",
+                "isPlayer": true
+            },
+            {
+                "id": "can8",
+                "name": "KAMAL MILLER",
+                "isPlayer": true
+            },
+            {
+                "id": "can9",
+                "name": "STEVEN VITÓRIA",
+                "isPlayer": true
+            },
+            {
+                "id": "can10",
+                "name": "TAJON BUCHANAN",
+                "isPlayer": true
+            },
+            {
+                "id": "can11",
+                "name": "ALPHONSO DAVIES",
+                "isPlayer": true
+            },
+            {
+                "id": "can12",
+                "name": "STEPHEN EUSTÁQUIO",
+                "isPlayer": true
+            },
+            {
+                "id": "can13",
+                "name": "ATIBA HUTCHINSON",
+                "isPlayer": true
+            },
+            {
+                "id": "can14",
+                "name": "MARK-ANTHONY KAYE",
+                "isPlayer": true
+            },
+            {
+                "id": "can15",
+                "name": "JONATHAN OSORIO",
+                "isPlayer": true
+            },
+            {
+                "id": "can16",
+                "name": "SAMUEL PIETTE",
+                "isPlayer": true
+            },
+            {
+                "id": "can17",
+                "name": "JONATHAN DAVID",
+                "isPlayer": true
+            },
+            {
+                "id": "can18",
+                "name": "DAVID JUNIOR HOILETT",
+                "isPlayer": true
+            },
+            {
+                "id": "can19",
+                "name": "CYLE LARIN",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "mar",
+        "name": "MARRUECOS",
+        "elements": [
+            {
+                "id": "mar1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "mar2",
+                "name": "YASSINE BOUNOU",
+                "isPlayer": true
+            },
+            {
+                "id": "mar3",
+                "name": "MUNIR MOHAMEDI",
+                "isPlayer": true
+            },
+            {
+                "id": "mar4",
+                "name": "NAYEF AGUERD",
+                "isPlayer": true
+            },
+            {
+                "id": "mar5",
+                "name": "ACHRAF HAKIMI",
+                "isPlayer": true
+            },
+            {
+                "id": "mar6",
+                "name": "ADAM MASINA",
+                "isPlayer": true
+            },
+            {
+                "id": "mar7",
+                "name": "SAMY MMAEE",
+                "isPlayer": true
+            },
+            {
+                "id": "mar8",
+                "name": "ROMAIN SAÏSS",
+                "isPlayer": true
+            },
+            {
+                "id": "mar9",
+                "name": "SELIM AMALLAH",
+                "isPlayer": true
+            },
+            {
+                "id": "mar10",
+                "name": "SOFYAN AMRABAT",
+                "isPlayer": true
+            },
+            {
+                "id": "mar11",
+                "name": "AYMEN BARKOK",
+                "isPlayer": true
+            },
+            {
+                "id": "mar12",
+                "name": "ILIAS CHAIR",
+                "isPlayer": true
+            },
+            {
+                "id": "mar13",
+                "name": "IMRÂN LOUZA",
+                "isPlayer": true
+            },
+            {
+                "id": "mar14",
+                "name": "SOFIANE BOUFAL",
+                "isPlayer": true
+            },
+            {
+                "id": "mar15",
+                "name": "AYOUB EL KAABI",
+                "isPlayer": true
+            },
+            {
+                "id": "mar16",
+                "name": "YOUSSEF EN-NESYRI",
+                "isPlayer": true
+            },
+            {
+                "id": "mar17",
+                "name": "RYAN MMAEE",
+                "isPlayer": true
+            },
+            {
+                "id": "mar18",
+                "name": "MUNIR",
+                "isPlayer": true
+            },
+            {
+                "id": "mar19",
+                "name": "TARIK TSSOUDALI",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "cro",
+        "name": "CROACIA",
+        "elements": [
+            {
+                "id": "cro1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "cro2",
+                "name": "DOMINIK LIVAKOVIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "cro3",
+                "name": "IVICA IVUŠIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "cro4",
+                "name": "DUJE ĆALETA-CAR",
+                "isPlayer": true
+            },
+            {
+                "id": "cro5",
+                "name": "JOŠKO GVARDIOL",
+                "isPlayer": true
+            },
+            {
+                "id": "cro6",
+                "name": "JOSIP JURANOVIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "cro7",
+                "name": "JOSIP JURANOVIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "cro8",
+                "name": "BORNA SOSA",
+                "isPlayer": true
+            },
+            {
+                "id": "cro9",
+                "name": "DOMAGOJ VIDA",
+                "isPlayer": true
+            },
+            {
+                "id": "cro10",
+                "name": "MARCELO BROZOVIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "cro11",
+                "name": "MATEO KOVAČIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "cro12",
+                "name": "LUKA MODRIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "cro13",
+                "name": "MARIO PAŠALIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "cro14",
+                "name": "IVAN PERIŠIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "cro15",
+                "name": "NIKOLA VLAŠIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "cro16",
+                "name": "JOSIP BREKALO",
+                "isPlayer": true
+            },
+            {
+                "id": "cro17",
+                "name": "ANDREJ KRAMARIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "cro18",
+                "name": "MARKO LIVAJA",
+                "isPlayer": true
+            },
+            {
+                "id": "cro19",
+                "name": "MISLAV ORŠIĆ",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "bra",
+        "name": "BRASIL",
+        "elements": [
+            {
+                "id": "bra1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "bra2",
+                "name": "ALISSON",
+                "isPlayer": true
+            },
+            {
+                "id": "bra3",
+                "name": "EDERSON",
+                "isPlayer": true
+            },
+            {
+                "id": "bra4",
+                "name": "ALEX SANDRO",
+                "isPlayer": true
+            },
+            {
+                "id": "bra5",
+                "name": "DANILO PREIRA",
+                "isPlayer": true
+            },
+            {
+                "id": "bra6",
+                "name": "ÉDER MILITÃO",
+                "isPlayer": true
+            },
+            {
+                "id": "bra7",
+                "name": "MARQUINHOS",
+                "isPlayer": true
+            },
+            {
+                "id": "bra8",
+                "name": "THIAGO SILVA",
+                "isPlayer": true
+            },
+            {
+                "id": "bra9",
+                "name": "CASEMIRO",
+                "isPlayer": true
+            },
+            {
+                "id": "bra10",
+                "name": "PHILIPPE COUTINHO",
+                "isPlayer": true
+            },
+            {
+                "id": "bra11",
+                "name": "FABINHO",
+                "isPlayer": true
+            },
+            {
+                "id": "bra12",
+                "name": "FRED",
+                "isPlayer": true
+            },
+            {
+                "id": "bra13",
+                "name": "LUCAS PAQUETÁ",
+                "isPlayer": true
+            },
+            {
+                "id": "bra14",
+                "name": "ANTONY",
+                "isPlayer": true
+            },
+            {
+                "id": "bra15",
+                "name": "GABRIEL JESUS",
+                "isPlayer": true
+            },
+            {
+                "id": "bra16",
+                "name": "NEYMAR JR",
+                "isPlayer": true
+            },
+            {
+                "id": "bra17",
+                "name": "RAPHINHA",
+                "isPlayer": true
+            },
+            {
+                "id": "bra18",
+                "name": "RICHARLISON",
+                "isPlayer": true
+            },
+            {
+                "id": "bra19",
+                "name": "VINÍCIUS JR",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "srb",
+        "name": "SERBIA",
+        "elements": [
+            {
+                "id": "srb1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "srb2",
+                "name": "PREDRAG RAJKOVIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "srb3",
+                "name": "VANJA MILINKOVIĆ-SAVIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "srb4",
+                "name": "NIKOLA MILENKOVIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "srb5",
+                "name": "STRAHINJA PAVLOVIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "srb6",
+                "name": "MILOŠ VELJKOVIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "srb7",
+                "name": "FILIP ĐURIČIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "srb8",
+                "name": "NEMANJA GUDELJ",
+                "isPlayer": true
+            },
+            {
+                "id": "srb9",
+                "name": "FILIP KOSTIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "srb10",
+                "name": "DARKO LAZOVIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "srb11",
+                "name": "SAŠA LUKIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "srb12",
+                "name": "NEMANJA MAKSIMOVIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "srb13",
+                "name": "SERGEJ MILINKOVIĆ-SAVIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "srb14",
+                "name": "NEMANJA RADONJIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "srb15",
+                "name": "ANDRIJA ŽIVKOVIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "srb16",
+                "name": "LUKA JOVIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "srb17",
+                "name": "ALEKSANDAR MITROVIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "srb18",
+                "name": "DUŠAN TADIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "srb19",
+                "name": "DUŠAN VLAHOVIĆ",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "sui",
+        "name": "SUIZA",
+        "elements": [
+            {
+                "id": "sui1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "sui2",
+                "name": "YANN SOMMER",
+                "isPlayer": true
+            },
+            {
+                "id": "sui3",
+                "name": "GREGOR KOBEL",
+                "isPlayer": true
+            },
+            {
+                "id": "sui4",
+                "name": "MANUEL AKANJI",
+                "isPlayer": true
+            },
+            {
+                "id": "sui5",
+                "name": "NICO ELVEDI",
+                "isPlayer": true
+            },
+            {
+                "id": "sui6",
+                "name": "KEVIN MBABU",
+                "isPlayer": true
+            },
+            {
+                "id": "sui7",
+                "name": "RICARDO RODRÍGUEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "sui8",
+                "name": "FABIAN SCHÄR",
+                "isPlayer": true
+            },
+            {
+                "id": "sui9",
+                "name": "SILVAN WIDMER",
+                "isPlayer": true
+            },
+            {
+                "id": "sui10",
+                "name": "REMO FREULER",
+                "isPlayer": true
+            },
+            {
+                "id": "sui11",
+                "name": "XHERDAN SHAQIRI",
+                "isPlayer": true
+            },
+            {
+                "id": "sui12",
+                "name": "DJIBRIL SOW",
+                "isPlayer": true
+            },
+            {
+                "id": "sui13",
+                "name": "GRANIT XHAKA",
+                "isPlayer": true
+            },
+            {
+                "id": "sui14",
+                "name": "DENIS ZAKARIA",
+                "isPlayer": true
+            },
+            {
+                "id": "sui15",
+                "name": "STEVEN ZUBER",
+                "isPlayer": true
+            },
+            {
+                "id": "sui16",
+                "name": "BREEL EMBOLO",
+                "isPlayer": true
+            },
+            {
+                "id": "sui17",
+                "name": "NOAH OKAFOR",
+                "isPlayer": true
+            },
+            {
+                "id": "sui18",
+                "name": "HARIS SEFEROVIĆ",
+                "isPlayer": true
+            },
+            {
+                "id": "sui19",
+                "name": "RUBEN VARGAS",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "cmr",
+        "name": "CAMERÚN",
+        "elements": [
+            {
+                "id": "cmr1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "cmr2",
+                "name": "ANDRÉ ONANA",
+                "isPlayer": true
+            },
+            {
+                "id": "cmr3",
+                "name": "DEVIS EPASSY",
+                "isPlayer": true
+            },
+            {
+                "id": "cmr4",
+                "name": "JEAN-CHARLES CASTELLETTO",
+                "isPlayer": true
+            },
+            {
+                "id": "cmr5",
+                "name": "COLLINS FAI",
+                "isPlayer": true
+            },
+            {
+                "id": "cmr6",
+                "name": "OLIVIER MBAIZO",
+                "isPlayer": true
+            },
+            {
+                "id": "cmr7",
+                "name": "HAROLD MOUKOUDI",
+                "isPlayer": true
+            },
+            {
+                "id": "cmr8",
+                "name": "MICHAEL NGADEU",
+                "isPlayer": true
+            },
+            {
+                "id": "cmr9",
+                "name": "NOUHOU",
+                "isPlayer": true
+            },
+            {
+                "id": "cmr10",
+                "name": "MARTIN HONGLA",
+                "isPlayer": true
+            },
+            {
+                "id": "cmr11",
+                "name": "PIERRE KUNDE",
+                "isPlayer": true
+            },
+            {
+                "id": "cmr12",
+                "name": "JAMES LÉA SILIKI",
+                "isPlayer": true
+            },
+            {
+                "id": "cmr13",
+                "name": "SAMUEL OUM GOUET",
+                "isPlayer": true
+            },
+            {
+                "id": "cmr14",
+                "name": "ANDRÉ-FRANK ZAMBO ANGUISSA",
+                "isPlayer": true
+            },
+            {
+                "id": "cmr15",
+                "name": "VICENT ABOUBAKAR",
+                "isPlayer": true
+            },
+            {
+                "id": "cmr16",
+                "name": "STÉPHANE BAHOKEN",
+                "isPlayer": true
+            },
+            {
+                "id": "cmr17",
+                "name": "ERIC MAXIM CHOUPO-MOTING",
+                "isPlayer": true
+            },
+            {
+                "id": "cmr18",
+                "name": "NICOLAS MOUMI NGAMALEU",
+                "isPlayer": true
+            },
+            {
+                "id": "cmr19",
+                "name": "KARL TOKO EKAMBI",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "por",
+        "name": "PORTUGAL",
+        "elements": [
+            {
+                "id": "por1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "por2",
+                "name": "DIOGO COSTA",
+                "isPlayer": true
+            },
+            {
+                "id": "por3",
+                "name": "RUI PATRÍCIO",
+                "isPlayer": true
+            },
+            {
+                "id": "por4",
+                "name": "JOÃO CANCELO",
+                "isPlayer": true
+            },
+            {
+                "id": "por5",
+                "name": "JOSÉ FONTE",
+                "isPlayer": true
+            },
+            {
+                "id": "por6",
+                "name": "NUNO MENDES",
+                "isPlayer": true
+            },
+            {
+                "id": "por7",
+                "name": "PEPE",
+                "isPlayer": true
+            },
+            {
+                "id": "por8",
+                "name": "RAPHAËL GUERREIRO",
+                "isPlayer": true
+            },
+            {
+                "id": "por9",
+                "name": "RÚBEN DIAS",
+                "isPlayer": true
+            },
+            {
+                "id": "por10",
+                "name": "BERNARDO SILVA",
+                "isPlayer": true
+            },
+            {
+                "id": "por11",
+                "name": "BRUNO FERNANDEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "por12",
+                "name": "DANILO PREIRA",
+                "isPlayer": true
+            },
+            {
+                "id": "por13",
+                "name": "JOÃO MOUTINHO",
+                "isPlayer": true
+            },
+            {
+                "id": "por14",
+                "name": "RENATO SANCHES",
+                "isPlayer": true
+            },
+            {
+                "id": "por15",
+                "name": "RÚBEN NEVES",
+                "isPlayer": true
+            },
+            {
+                "id": "por16",
+                "name": "ANDRÉ SILVA",
+                "isPlayer": true
+            },
+            {
+                "id": "por17",
+                "name": "CRISTIANO RONALDO",
+                "isPlayer": true
+            },
+            {
+                "id": "por18",
+                "name": "DIOGO JOTA",
+                "isPlayer": true
+            },
+            {
+                "id": "por19",
+                "name": "GONÇALO GUEDES",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "gha",
+        "name": "GHANA",
+        "elements": [
+            {
+                "id": "gha1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "gha2",
+                "name": "JOE WALLACOTT",
+                "isPlayer": true
+            },
+            {
+                "id": "gha3",
+                "name": "RICHARD OFORI",
+                "isPlayer": true
+            },
+            {
+                "id": "gha4",
+                "name": "DANIEL AMARTEY",
+                "isPlayer": true
+            },
+            {
+                "id": "gha5",
+                "name": "ABDUL-RAHMAN BABA",
+                "isPlayer": true
+            },
+            {
+                "id": "gha6",
+                "name": "ALEXANDER DJIKU",
+                "isPlayer": true
+            },
+            {
+                "id": "gha7",
+                "name": "GIDEON MENSAH",
+                "isPlayer": true
+            },
+            {
+                "id": "gha8",
+                "name": "JONATHAN MENSAH",
+                "isPlayer": true
+            },
+            {
+                "id": "gha9",
+                "name": "ANDY YIADOM",
+                "isPlayer": true
+            },
+            {
+                "id": "gha10",
+                "name": "IDDRISU BABA",
+                "isPlayer": true
+            },
+            {
+                "id": "gha11",
+                "name": "MHOAMMED KUDUS",
+                "isPlayer": true
+            },
+            {
+                "id": "gha12",
+                "name": "DANIEL-KOFI KYEREH",
+                "isPlayer": true
+            },
+            {
+                "id": "gha13",
+                "name": "THOMAS PARTEY",
+                "isPlayer": true
+            },
+            {
+                "id": "gha14",
+                "name": "MUBARAK WAKASO",
+                "isPlayer": true
+            },
+            {
+                "id": "gha15",
+                "name": "FELIX AFENA-GYAN",
+                "isPlayer": true
+            },
+            {
+                "id": "gha16",
+                "name": "ANDRÉ AYEW",
+                "isPlayer": true
+            },
+            {
+                "id": "gha17",
+                "name": "JORDAN AYEW",
+                "isPlayer": true
+            },
+            {
+                "id": "gha18",
+                "name": "ISSAHAKU ABDUL FATAWU",
+                "isPlayer": true
+            },
+            {
+                "id": "gha19",
+                "name": "KAMALDEEN SULEMANA",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "uru",
+        "name": "URUGUAY",
+        "elements": [
+            {
+                "id": "uru1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "uru2",
+                "name": "FERNANDO MUSLERA",
+                "isPlayer": true
+            },
+            {
+                "id": "uru3",
+                "name": "SERGIO ROCHET",
+                "isPlayer": true
+            },
+            {
+                "id": "uru4",
+                "name": "RONALD ARAÚJO",
+                "isPlayer": true
+            },
+            {
+                "id": "uru5",
+                "name": "MARTÍN CÁCERES",
+                "isPlayer": true
+            },
+            {
+                "id": "uru6",
+                "name": "JOSÉ MARÍA GIMÉNEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "uru7",
+                "name": "DIEGO GODÍN",
+                "isPlayer": true
+            },
+            {
+                "id": "uru8",
+                "name": "MATHÍAS OLIVERA",
+                "isPlayer": true
+            },
+            {
+                "id": "uru9",
+                "name": "MATÍAS VIÑA",
+                "isPlayer": true
+            },
+            {
+                "id": "uru10",
+                "name": "RODRIGO BENTANCUR",
+                "isPlayer": true
+            },
+            {
+                "id": "uru11",
+                "name": "GIORGIAN DE ARRASCAETA",
+                "isPlayer": true
+            },
+            {
+                "id": "uru12",
+                "name": "NICOLÁS DE LA CRUZ",
+                "isPlayer": true
+            },
+            {
+                "id": "uru13",
+                "name": "LUCAS TORREIRA",
+                "isPlayer": true
+            },
+            {
+                "id": "uru14",
+                "name": "FEDERICO VALVERDE",
+                "isPlayer": true
+            },
+            {
+                "id": "uru15",
+                "name": "MATÍAS VECINO",
+                "isPlayer": true
+            },
+            {
+                "id": "uru16",
+                "name": "EDINSON CAVANI",
+                "isPlayer": true
+            },
+            {
+                "id": "uru17",
+                "name": "DARWIN NÚÑEZ",
+                "isPlayer": true
+            },
+            {
+                "id": "uru18",
+                "name": "FACUNDO PELLISTRI",
+                "isPlayer": true
+            },
+            {
+                "id": "uru19",
+                "name": "LUIS SUÁREZ",
+                "isPlayer": true
+            }
+        ]
+    },
+    {
+        "id": "kor",
+        "name": "COREA DEL SUR",
+        "elements": [
+            {
+                "id": "kor1",
+                "name": "",
+                "isPlayer": false
+            },
+            {
+                "id": "kor2",
+                "name": "SEUNG-GYU KIM",
+                "isPlayer": true
+            },
+            {
+                "id": "kor3",
+                "name": "HYEON-WOO JO",
+                "isPlayer": true
+            },
+            {
+                "id": "kor4",
+                "name": "CHUL HONG",
+                "isPlayer": true
+            },
+            {
+                "id": "kor5",
+                "name": "TAE-HWAN KIM",
+                "isPlayer": true
+            },
+            {
+                "id": "kor6",
+                "name": "MIN-JAE KIM",
+                "isPlayer": true
+            },
+            {
+                "id": "kor7",
+                "name": "YOUNG-GWON KIM",
+                "isPlayer": true
+            },
+            {
+                "id": "kor8",
+                "name": "JIN-SU KIM",
+                "isPlayer": true
+            },
+            {
+                "id": "kor9",
+                "name": "YONG LEE",
+                "isPlayer": true
+            },
+            {
+                "id": "kor10",
+                "name": "IN-BEOM HWANG",
+                "isPlayer": true
+            },
+            {
+                "id": "kor11",
+                "name": "WOO-YOUNG JUNG",
+                "isPlayer": true
+            },
+            {
+                "id": "kor12",
+                "name": "JAE-SUNG LEE",
+                "isPlayer": true
+            },
+            {
+                "id": "kor13",
+                "name": "SEUNG-HO PAIK",
+                "isPlayer": true
+            },
+            {
+                "id": "kor14",
+                "name": "GUE-SUNG CHO",
+                "isPlayer": true
+            },
+            {
+                "id": "kor15",
+                "name": "HEE-CHAN HWANG",
+                "isPlayer": true
+            },
+            {
+                "id": "kor16",
+                "name": "UI-JO HWANG",
+                "isPlayer": true
+            },
+            {
+                "id": "kor17",
+                "name": "CHANG-HOON KWON",
+                "isPlayer": true
+            },
+            {
+                "id": "kor18",
+                "name": "HEUNG-MIN SON",
+                "isPlayer": true
+            },
+            {
+                "id": "kor19",
+                "name": "MIN-KYU SONG",
+                "isPlayer": true
+            }
+        ]
+    }
+]
